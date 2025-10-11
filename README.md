@@ -34,10 +34,13 @@ This interactive dashboard gives users deep insights into sales, profits, and pr
 
 ---
 
-## 🗂️ Data Integration
+## 🖼️ Screenshots
 
-- Built on joined CSVs: `Customers.csv`, `Location.csv`, `Orders.csv`, `Products.csv`
-- See how everything connects in the Tableau data source view 🤝
+Below are sample screenshots of different dashboard views and settings 👇:
+
+
+
+*(Replace the image paths above with your actual screenshot file names or drag-and-drop images into your README on GitHub.)*
 
 ---
 
@@ -60,7 +63,6 @@ This interactive dashboard gives users deep insights into sales, profits, and pr
 This project is for practice and learning purposes only.  
 Feel free to explore, modify, and use for your own study projects! 🎓  
 Commercial use or redistribution is not permitted. 🚫
-
 
 ---
 
