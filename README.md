@@ -16,6 +16,7 @@ This interactive dashboard gives users deep insights into sales, profits, and pr
 
 - **🔬 Sub-Category Comparison:**  
   - Bar charts compare sales and profit for each product group (Chairs, Phones, Tables, more!)
+  - '!" indicates wherethe  previous year outperformed the current year
 
 - **📅 Weekly Trends:**  
   - Line charts reveal weekly movement in profit and sales, including easy-to-read averages.
@@ -37,10 +38,8 @@ This interactive dashboard gives users deep insights into sales, profits, and pr
 ## 🖼️ Screenshots
 
 Below are sample screenshots of different dashboard views and settings 👇:
-
-
-
-*(Replace the image paths above with your actual screenshot file names or drag-and-drop images into your README on GitHub.)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ff8360d7-3575-43f6-bfd3-f4716638c809" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4019bf5a-88ea-4443-acfa-66b5dd861aa0" />
 
 ---
 
