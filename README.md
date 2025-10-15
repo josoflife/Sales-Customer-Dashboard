@@ -1,68 +1,105 @@
-# 📊 Sales Dashboard | Tableau Project
+# 📊 Sales & Customer Dashboard | Tableau Project
+
+Welcome to the **Sales & Customer Dashboard Project**, built using **Tableau Desktop Public Edition**.  
+This interactive data visualization provides a complete overview of business performance — covering sales trends, profits, and customer insights — through clear and dynamic Tableau dashboards.
+
+---
 
 ## ✨ Overview
 
-Welcome to the Sales Dashboard project, crafted using Tableau Desktop Public Edition!  
-This interactive dashboard gives users deep insights into sales, profits, and product trends using dynamic filtering options and creative visuals.
+This project consists of **two fully interactive dashboards**:
+
+1. **Sales Dashboard** – Highlights total sales, quantity, profit, and product performance.  
+2. **Customer Dashboard** – Focuses on customer behavior, orders, and segmentation.  
+
+Both dashboards are interconnected, allowing **smooth and dynamic navigation** between sales and customer insights.
 
 ---
 
 ## 🚀 Dashboard Features
 
-- **KPI Highlights:**  
-  - **Total Sales 💰** – monthly trends, % improvement vs previous year
-  - **Total Quantity 📦** – monthly breakdown, year-over-year growth
-  - **Total Profit 📈** – profit timelines and milestones
+### 📈 **Sales Dashboard**
+- **💰 Total Sales** – Displays monthly trends and year-over-year (YoY) comparison.  
+- **📦 Total Quantity** – Highlights total items sold with growth percentages vs previous year.  
+- **📊 Total Profit** – Shows profit patterns and milestone months.  
+- **🔬 Sub-Category Comparison** – Bar charts showing sales and profit per product type (Phones, Chairs, Tables, etc.).  
+- **📅 Weekly Trends** – Line charts visualizing weekly profit and sales movement with average trendlines.
 
-- **🔬 Sub-Category Comparison:**  
-  - Bar charts compare sales and profit for each product group (Chairs, Phones, Tables, more!)
-  - '!" indicates wherethe  previous year outperformed the current year
+---
 
-- **📅 Weekly Trends:**  
-  - Line charts reveal weekly movement in profit and sales, including easy-to-read averages.
+### 👥 **Customer Dashboard**
+- **Total Customers** – Tracks customer growth and YoY improvement.  
+- **Sales per Customer** – Measures the average sales amount per customer.  
+- **Total Orders** – Shows monthly and total orders placed.  
+- **Customer Distribution** – Visualizes the number of customers in each group or category.  
+- **Top Customers** – Ranks top-performing customers with details:
+  - Name  
+  - Latest Order Date  
+  - Profit  
+  - Sales  
+  - Number of Orders  
+- **Customer Segmentation** – Segments customers based on their purchase behavior and profitability.
 
 ---
 
 ## 🧭 Filtering Options
 
-- **Year Selector 🗓️:**  
-  - Top panel dropdown lets you compare any year, e.g. 2022
-- **Product Filters 🏷️:**  
-  - Filter by Category, Sub-Category
-- **Geographic Filters 🌍:**  
-  - Sort and explore by City, State, Region
-- Combine filters for fine-tuned, personalized visualizations!
+The dashboards feature **interactive and multi-level filters** for flexible analysis:
+- **🗓️ Year Selector:** Compare across years (e.g., 2022 vs 2023).  
+- **🏷️ Product Filters:** Filter by Category and Sub-Category.  
+- **🌍 Regional Filters:** Explore performance by Region, State, or City.  
+- **🧩 Combined Filters:** Mix and match filters for in-depth and specific insights.
 
 ---
 
-## 🖼️ Screenshots
+## 🔁 Dynamic Navigation
 
-Below are sample screenshots of different dashboard views and settings 👇:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ff8360d7-3575-43f6-bfd3-f4716638c809" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4019bf5a-88ea-4443-acfa-66b5dd861aa0" />
+Easily switch between dashboards using **interactive tabs**:
+- Move seamlessly between **Sales Dashboard** and **Customer Dashboard**  
+- Retain applied filters while switching for continuous analysis  
+- Interactive buttons make exploration intuitive and smooth
 
 ---
 
-## 🔄 In Progress
+## 🖼️ Dashboard Previews
 
-- Stay tuned! A **Customer Dashboard 👥** for detailed customer insight and segmentation is currently in development and will be added soon.
+### Sales Dashboard  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c56c7aa7-4e54-4f09-9808-f2200cbd6e66" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/62f359a7-eeac-4f3b-a80b-07832f624e67" />
+
+
+### Customer Dashboard  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b6335450-6ddb-48fc-9065-e1fd2b523299" />
+
 
 ---
 
 ## 🛠️ How to Use
 
-- Play with filters on the right to visualize the exact data you need
-- Use the year dropdown at the top for time-based analysis
-- Move across tabs: `sales dashboard`, `kpi sales`, `comparison sub-category`, `weekly trends` for different analytical views
+1. Open the `.twbx` or `.twb` file in **Tableau Desktop Public Edition**.  
+2. Use filters to explore trends, product categories, or specific regions.  
+3. Navigate between **Sales** and **Customer** dashboards dynamically.  
+4. Hover over points or bars to view detailed metrics and tooltips.  
+
+---
+
+## 💾 Data Source
+
+- Dataset: **Sample Superstore** (Tableau Public built-in dataset)  
+- Data fields include: *Sales, Profit, Quantity, Category, Region, and Customer Data.*  
 
 ---
 
 ## 📝 License
 
-This project is for practice and learning purposes only.  
-Feel free to explore, modify, and use for your own study projects! 🎓  
-Commercial use or redistribution is not permitted. 🚫
+This project is created for **learning and portfolio purposes**.  
+Feel free to explore, adapt, and reference for educational use.  
+
 
 ---
 
-Enjoy exploring your sales data! 🌟
+ 
+
+---
+
+**Empowering better business insights through interactive analytics!**
